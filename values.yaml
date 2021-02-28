@@ -18,7 +18,7 @@ terminationGracePeriodSeconds: 3600
 # certsSecretName:
 concurrent: 10
 checkInterval: 30
-logLevel: debug
+logLevel: info
 # logFormat: text
 # sentryDsn:
 preEntrypointScript: |
